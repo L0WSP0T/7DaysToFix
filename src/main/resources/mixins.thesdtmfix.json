@@ -1,0 +1,11 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.craft1x.thesdtmfix.mixin",
+  "refmap": "refmap.thesdtmfix.json",
+  "mixins": [
+    "TargetMix"
+  ],
+  "client": [
+
+  ]
+}
